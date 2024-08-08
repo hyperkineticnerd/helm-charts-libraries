@@ -3,6 +3,3 @@
 If you want the stable Helm Charts go here: https://github.com/hyperkineticnerd/helm-charts-stable
 
 If you want to use the dev Helm Charts go here: https://github.com/hyperkineticnerd/helm-charts
-
-If you want the legacy Helm Charts go here: https://github.com/hyperkineticnerd/helm-charts-legacy
-
