@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  openshift:
+  - apiVersion: v2
+    created: "2024-09-25T04:38:17.955676439Z"
+    description: A Helm chart library for OpenShift
+    digest: 5ebb6c0ee74fb7f9e2412c2501aaf4cf27ccbcd5d74db26e161ca2cc9dfa36da
+    name: openshift
+    type: library
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-library/releases/download/openshift-0.2.0/openshift-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-09-25T04:38:17.955681108Z"
