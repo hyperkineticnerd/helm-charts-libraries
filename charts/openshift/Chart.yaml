@@ -1,0 +1,7 @@
+apiVersion: v2
+name: openshift
+description: A Helm chart library for OpenShift
+# type: library
+type: application
+version: 0.1.0
+application: 4.12.0
