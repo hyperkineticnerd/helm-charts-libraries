@@ -3,4 +3,4 @@ name: openshift
 description: A Helm chart library for OpenShift
 type: application
 version: 0.3.0
-application: 4.12.0
+appVersion: 4.12.0
