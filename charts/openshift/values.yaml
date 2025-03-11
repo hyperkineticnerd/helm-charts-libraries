@@ -23,6 +23,6 @@ pv:
     - ReadWriteMany
   nfs:
     enable: false
-    server: 172.16.100.11
+    server: 172.16.100.10
     path: /volume1/games/palworld
   storageClass: thin-csi
